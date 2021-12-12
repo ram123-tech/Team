@@ -1,2 +1,3 @@
 Eid=100
 Emp name= John
+salary=10k
