@@ -1,0 +1,2 @@
+Eid=100
+Emp name= John
